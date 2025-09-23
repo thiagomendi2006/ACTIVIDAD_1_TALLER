@@ -1,7 +1,7 @@
-##Actividad 1: Evaluaciones de equipos en Python
+# Actividad 1: Evaluaciones de equipos en Python
 
-###Informacion Importante
- Debido a una confusión de enunciado, con unos compañeros, pensamos que el trabajo era grupal, así que además de la actividad 1, presento los dos incisos extra que me fueron asignados.
+## Información Importante
+Debido a una confusión de enunciado, con unos compañeros, pensamos que el trabajo era grupal, así que además de la actividad 1, presento los dos incisos extra que me fueron asignados.
 
 Agrego a continuacion mi nombre, apellido, legajo y los enunciados extra que realicé:
 - **Nombre y Apellido:** Thiago Mendizabal
