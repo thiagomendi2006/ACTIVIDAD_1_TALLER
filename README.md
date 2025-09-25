@@ -28,14 +28,14 @@ ACTIVIDAD_1_TALLER/
 │ 	└── notebooks/
 │		 └── programa.ipynb
 ├── README.md
-└── requisitos.txt
+└── requeriments.txt
 ```
 ### Ejecucion del Programa e Instalacion de Dependencias
 1. **Clonar el Reopositorio**
 2. **Instalar Dependencias**
-	Instalar Jupyter Notebook (necesario para ejecutar el archivo `.ipynb`) usando el archivo `requisitos.txt`.
+	Instalar Jupyter Notebook (necesario para ejecutar el archivo `.ipynb`) usando el archivo `requeriments.txt`.
 	
-	`pip instal -r requisitos.txt`
+	`pip instal -r requeriments.txt`
 	
 3.**Ejecutar el programa (notebook)** 
 
