@@ -21,7 +21,7 @@ def mejor_equipo_ronda(ronda: dict):
         if puntaje > mejor_puntaje:
             mejor_puntaje = puntaje
             mejor_nombre = nombre
-    return (mejor_nombre, mejor_puntaje)
+    return mejor_nombre
     
 #Entrada: diccionario de todos los equipos en una ronda
 #Salida: una tupla [str, int] que seria: [nombre_equipo,puntaje]
