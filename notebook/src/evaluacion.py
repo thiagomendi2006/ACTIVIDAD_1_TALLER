@@ -24,4 +24,4 @@ def mejor_equipo_ronda(ronda: dict):
     return mejor_nombre
     
 #Entrada: diccionario de todos los equipos en una ronda
-#Salida: una tupla [str, int] que seria: [nombre_equipo,puntaje]
+#Salida: El mejor equipo de la ronda
